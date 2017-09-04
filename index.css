@@ -1,0 +1,20 @@
+.block{
+    /* border: 1px solid #000; */
+    width: 200px;
+    height: 400px;
+    display: inline-block;
+    vertical-align:middle;
+}
+.timer{
+    font-size: 30px;
+    /* border: 1px solid #000; */
+    text-align: center;
+}
+.startButton,.resetButton{
+    font-size: 50px;
+    text-align: center;
+    border: 1px solid #000;
+    border-radius: 10px;
+    user-select: none;
+    cursor: pointer;
+}

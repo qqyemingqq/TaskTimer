@@ -1,0 +1,1 @@
+/Applications/Electron.app/Contents/MacOS/Electron ./Desktop/electron-quick-start-master
